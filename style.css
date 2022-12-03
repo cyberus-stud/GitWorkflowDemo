@@ -1,0 +1,76 @@
+:root {
+    --cy-green: #146F74;
+    --bg-gray: #F2F2F2;
+}
+
+.main {
+    color: black;
+    background-color: var(--bg-gray);
+}
+
+.headline-container {
+    background-color: var(--cy-green);
+}
+
+.headline-img {
+    width: 35%;
+    min-width: 300px;
+}
+
+.headline-txt {
+    color: white;
+}
+
+.members-container {
+    gap: 30px;
+}
+
+.member-card-container {
+    background-color: white;
+    max-width: 250px;
+    min-width: 220px;
+    height: 250px;
+    gap: 10px;
+    border-radius: 0% 0% 7% 7%;
+    margin-top: 50px;
+    padding-top: 150px !important;
+    transition: box-shadow 0.5s ease-in-out;
+    box-shadow: 0 5px 10px rgb(197, 197, 197, 0.6);
+}
+
+.member-card-container:hover {
+    box-shadow: 0 5px 10px rgb(20, 111, 116, 0.3);
+}
+
+.member-card-container:hover .member-img-container {
+    box-shadow: 0 -10px 15px rgb(20, 111, 116, 0.3);
+}
+
+.member-img-container {
+    width: 180px;
+    height: 180px;
+    top: 50px;
+    background-color: white;
+    border: 8px solid var(--cy-green);
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    transition: box-shadow 0.8s ease-in-out;
+}
+
+.member-img {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+.member-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.member-role {
+    color: var(--cy-green);
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
