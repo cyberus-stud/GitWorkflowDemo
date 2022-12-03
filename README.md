@@ -2,10 +2,23 @@
 A demo project aims to be a practicing repository for onboarding developers to the projects department git workflow 
 
 ## To Do
-Add new object to the members array on the `members.json` file, and fill it with your data
+Add new object to the members array on the `members.json` file, add `name`, `role`, and `avatar` attributes and fill them with your data
 > Notice that the current available options for avatar are:
 >   * male-{1, 2, 3, 4}
 >   * female-{1, 2}
+
+`members.json` example
+```json
+{
+    "members" : [
+        {
+            "name" : "YOUR_FIRSTNAME_SURNAME",
+            "role" : "YOUR_CURRENT_ROLE",
+            "avatar" : "AVATAR_KEY"
+        }
+    ]
+}
+```
 
 ### Available Avatars
 <table>
