@@ -1,21 +1,18 @@
 {
-<<<<<<< HEAD
-  "members": [
-    {
+
+    "members" : [
+     {
       "name": "Ahmed Esmat",
       "role": "BackEnd Dev",
       "avatar": "male-1"
-    }
-  ]
-}
-=======
-    "members" : [
+    },
         {
             "name" : "Omar Elshopky",
             "role" : "Founder / Projects Director",
             "avatar" : "batman"
         },
         {
+
             "name": "Abdelrahman Omar",
             "role": "Member",
             "avatar": "male-3"
@@ -24,7 +21,15 @@
           "name": "Ahmed Esmat",
           "role": "BackEnd Dev",
           "avatar": "male-1"
+
+            "name" : "Mohammed EL-Shiky",
+            "role" : "Front end",
+            "avatar" : "male-1"
+        },
+        {
+            "name" : "Enas Ahmed",
+            "role" : "UI Designer",
+            "avatar" : "female-1"
         }
     ]
 }
->>>>>>> d4c91acfa11c68efd23f0c5894083b17bb48d5a0
