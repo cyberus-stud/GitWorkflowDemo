@@ -1,3 +1,9 @@
 {
-    "members" : []
+  "members": [
+    {
+      "name": "Ahmed Esmat",
+      "role": "BackEnd Dev",
+      "avatar": "male-1"
+    }
+  ]
 }
