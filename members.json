@@ -1,19 +1,19 @@
 {
     "members" : [
-		{
-			"name": "Omar Elshopky",
-			"role": "Founder / Projects Director",
-			"avatar": "batman"
-		},
-		{
-			"name": "Abdelrahman Omar",
-			"role": "Member",
-			"avatar": "male-3"
-		},
         {
-			"name": "Ahmed Senousy",
-			"role": "Member",
-			"avatar": "male-2"
-		}
-	]
+            "name" : "Shehab Ihab",
+            "role" : "Member",
+            "avatar" : "male-1"
+        },
+        {
+            "name" : "Omar Elshopky",
+            "role" : "Founder / Projects Director",
+            "avatar" : "batman"
+        },
+        {
+            "name": "Abdelrahman Omar",
+            "role": "Member",
+            "avatar": "male-3"
+        }
+    ]
 }
