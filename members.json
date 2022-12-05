@@ -1,3 +1,9 @@
 {
-    "members" : []
+    "members" : [
+        {
+            "name": "Abdelrahman Omar",
+            "role": "Member",
+            "avatar": "male-3"
+        }
+    ]
 }
