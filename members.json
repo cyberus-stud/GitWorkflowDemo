@@ -1,3 +1,9 @@
 {
-    "members" : []
+    "members" : [
+        {
+            "name" : "Mahmoud Mohamed",
+            "role" : "Frontend Developer",
+            "avatar" : "male-4"
+        }
+    ]
 }
