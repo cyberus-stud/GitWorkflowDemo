@@ -1,6 +1,11 @@
 {
     "members" : [
         {
+            "name" : "Shehab Ihab",
+            "role" : "Member",
+            "avatar" : "male-1"
+        },
+        {
             "name" : "Omar Elshopky",
             "role" : "Founder / Projects Director",
             "avatar" : "batman"
@@ -10,5 +15,6 @@
             "role": "Member",
             "avatar": "male-3"
         }
+
     ]
 }
