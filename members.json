@@ -1,19 +1,19 @@
 {
     "members" : [
         {
-
-            "name" : "Mohammed EL-Shiky",
-            "role" : "Front end",
-            "avatar" : "male-1"
-       
-           
-        },
-       
-        {
             "name" : "Omar Elshopky",
             "role" : "Founder / Projects Director",
             "avatar" : "batman"
         },
-     
+        {
+            "name" : "Mohammed EL-Shiky",
+            "role" : "Front end",
+            "avatar" : "male-1"
+        },
+        {
+            "name" : "Enas Ahmed",
+            "role" : "UI Designer",
+            "avatar" : "female-1"
+        }
     ]
 }
