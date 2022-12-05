@@ -4,6 +4,26 @@
             "name" : "Mena Saleh",
             "role" : "Backend Developer",
             "avatar" : "male-2"
+        },
+            "name" : "Mahmoud Mohamed",
+            "role" : "Frontend Developer",
+            "avatar" : "male-4"
+        },
+        {
+            "name" : "Shehab Ihab",
+            "role" : "Member",
+            "avatar" : "male-1"
+        },
+        {
+            "name" : "Omar Elshopky",
+            "role" : "Founder / Projects Director",
+            "avatar" : "batman"
+        },
+        {
+            "name": "Abdelrahman Omar",
+            "role": "Member",
+            "avatar": "male-3"
         }
+
     ]
 }
