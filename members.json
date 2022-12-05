@@ -1,3 +1,9 @@
 {
-    "members" : []
+    "members" : [
+        {
+            "name":"Ali Haitham",
+            "role":"Front-end dev",
+            "avatar":"male-2"
+        }
+    ]
 }
