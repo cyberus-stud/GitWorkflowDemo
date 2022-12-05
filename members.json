@@ -1,19 +1,38 @@
 {
     "members": [
+    {"name": "Doaa yehia",
+            "role": "Member",
+            "avatar": "female-2",},
         {
+
             "name": "Omar Elshopky",
             "role": "Founder / Projects Director",
             "avatar": "batman"
+
+      
+        },
+        {
+            "name" : "Mohammed EL-Shiky",
+            "role" : "Front end",
+            "avatar" : "male-1"
+        },
+        {
+            "name" : "Enas Ahmed",
+            "role" : "UI Designer",
+            "avatar" : "female-1"
         },
         {
             "name": "Abdelrahman Omar",
             "role": "Member",
             "avatar": "male-3"
         },
-        {
-            "name": "Doaa yehia",
+       {
+
+            
+            "name": "Ahmed Senousy",
             "role": "Member",
-            "avatar": "female-2",
+            "avatar": "male-1"
+
         }
     ]
 }
