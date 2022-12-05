@@ -1,3 +1,9 @@
 {
-    "members" : []
+    "members" : [
+        {
+            "name" : "Enas Ahmed",
+            "role" : "UI Designer",
+            "avatar" : "female-1"
+        }
+    ]
 }
