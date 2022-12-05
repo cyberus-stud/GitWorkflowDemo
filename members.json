@@ -1,3 +1,9 @@
 {
-    "members" : []
+    "members" : [
+        {
+            "name" : "Shehab Ihab",
+            "role" : "Member",
+            "avatar" : "male-1"
+        }
+    ]
 }
