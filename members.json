@@ -1,6 +1,11 @@
 {
     "members" : [
         {
+            "name" : "Mahmoud Mohamed",
+            "role" : "Frontend Developer",
+            "avatar" : "male-4"
+        },
+        {
             "name" : "Shehab Ihab",
             "role" : "Member",
             "avatar" : "male-1"
