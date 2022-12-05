@@ -1,9 +1,19 @@
 {
     "members" : [
         {
+
             "name" : "Mohammed EL-Shiky",
             "role" : "Front end",
             "avatar" : "male-1"
-        }
+       
+           
+        },
+       
+        {
+            "name" : "Omar Elshopky",
+            "role" : "Founder / Projects Director",
+            "avatar" : "batman"
+        },
+     
     ]
 }
