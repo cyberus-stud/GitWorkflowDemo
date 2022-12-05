@@ -1,9 +1,19 @@
 {
     "members" : [
+		{
+			"name": "Omar Elshopky",
+			"role": "Founder / Projects Director",
+			"avatar": "batman"
+		},
+		{
+			"name": "Abdelrahman Omar",
+			"role": "Member",
+			"avatar": "male-3"
+		},
         {
-            "name" : "Doaa yehia",
-            "role" : "Member",
-            "avatar" : "female-2"
-        }
-    ]
+			"name": "Ahmed Senousy",
+			"role": "Member",
+			"avatar": "male-2"
+		}
+	]
 }
