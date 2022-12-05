@@ -1,3 +1,9 @@
 {
-    "members" : []
+    "members" : [
+        {
+            "name" : "Mohammed EL-Shiky",
+            "role" : "Front end",
+            "avatar" : "male-1"
+        }
+    ]
 }
