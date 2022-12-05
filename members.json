@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "members": [
     {
       "name": "Ahmed Esmat",
@@ -7,3 +8,23 @@
     }
   ]
 }
+=======
+    "members" : [
+        {
+            "name" : "Omar Elshopky",
+            "role" : "Founder / Projects Director",
+            "avatar" : "batman"
+        },
+        {
+            "name": "Abdelrahman Omar",
+            "role": "Member",
+            "avatar": "male-3"
+        },
+        {
+          "name": "Ahmed Esmat",
+          "role": "BackEnd Dev",
+          "avatar": "male-1"
+        }
+    ]
+}
+>>>>>>> d4c91acfa11c68efd23f0c5894083b17bb48d5a0
