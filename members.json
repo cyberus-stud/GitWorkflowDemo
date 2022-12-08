@@ -1,9 +1,14 @@
 {
-    "members" : [
-        {
-            "name" : "Omar Elshopky",
-            "role" : "Founder / Projects Director",
-            "avatar" : "batman"
-        }
-    ]
+  "members": [
+    {
+      "name": "Omar Elshopky",
+      "role": "Founder / Projects Director",
+      "avatar": "batman"
+    },
+    {
+      "name": "Ahmed Esmat",
+      "role": "Dev",
+      "avatar": "male-1"
+    }
+  ]
 }
