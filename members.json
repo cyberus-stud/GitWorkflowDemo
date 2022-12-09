@@ -4,6 +4,12 @@
             "name" : "Omar Elshopky",
             "role" : "Founder / Projects Director",
             "avatar" : "batman"
+        },
+
+        {
+            "name" : "Mena Saleh",
+            "role" : "Backend with NodeJS",
+            "avatar" : "male-2"  
         }
     ]
 }
