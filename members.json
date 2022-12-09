@@ -4,6 +4,11 @@
             "name" : "Omar Elshopky",
             "role" : "Founder / Projects Director",
             "avatar" : "batman"
+        },
+        {
+            "name": "Abdelrahman Omar",
+            "role": "Backend Developer",
+            "avatar": "male-2"
         }
     ]
 }
