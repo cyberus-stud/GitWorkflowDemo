@@ -24,6 +24,11 @@
       "name" : "Shehab Salah",
       "role" : "BackEnd DEV",
       "avatar" : "male-2"
+    },
+    {
+      "name": "Ahmed Salah",
+      "role": "BackEnd Dev",
+      "avatar": "male-1"
     }
   ]
 }
