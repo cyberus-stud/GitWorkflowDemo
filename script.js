@@ -2,20 +2,20 @@ const cardsContainer = document.querySelector('.members-container');
 const cardTemp = document.querySelector('.member-card-container');
 
 fetch('members.json')
-.then(res => res.json())
-.then(
-    data => {
-        const { members } = data;
+    .then(res => res.json())
+    .then(
+        data => {
+            const { members } = data;
 
-        members.forEach(
-            (member, index) => {
-                addMemberCard({...member, index: index});
-            }
-        );
+            members.forEach(
+                (member, index) => {
+                    addMemberCard({...member, index: index});
+                }
+            );
 
-        cardTemp.remove();
-    }
-)
+            cardTemp.remove();
+        }
+    )
 
 /**
  * Add a member card with the proper data to the cards container

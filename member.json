@@ -1,0 +1,29 @@
+{
+  "members" : [
+    {
+      "name" : "Omar Elshopky",
+      "role" : "Founder / Projects Director",
+      "avatar" : "batman"
+    },
+    {
+      "name": "Ahmed Esmat",
+      "role": "Dev",
+      "avatar": "male-1"
+    },
+    {
+      "name" : "Mahmoud Mohamed",
+      "role" : "Frontend Dev",
+      "avatar" : "male-2"
+    },
+    {
+      "name" : "Shehab Ihab",
+      "role" : "Member",
+      "avatar" : "male-1"
+    },
+    {
+      "name" : "Shehab Salah",
+      "role" : "BackEnd DEV",
+      "avatar" : "male-2"
+    }
+  ]
+}
