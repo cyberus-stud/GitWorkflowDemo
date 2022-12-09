@@ -14,6 +14,11 @@
             "name" : "Mahmoud Mohamed",
             "role" : "Frontend Dev",
             "avatar" : "male-2"
+        },
+        {
+            "name" : "Shehab Ihab",
+            "role" : "Member",
+            "avatar" : "male-1"
         }
     ]
 }
