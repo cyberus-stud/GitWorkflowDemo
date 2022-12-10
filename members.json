@@ -24,6 +24,11 @@
             "name" : "Shehab Ihab",
             "role" : "Member",
             "avatar" : "male-1"
+        },
+        {
+          "name": "AAA Second Trial",
+          "role": "Dev",
+          "avatar": "male-1"
         }
     ]
 }
