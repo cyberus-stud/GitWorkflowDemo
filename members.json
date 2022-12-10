@@ -1,14 +1,34 @@
 {
-  "members": [
-    {
-      "name": "Omar Elshopky",
-      "role": "Founder / Projects Director",
-      "avatar": "batman"
-    },
-    {
-      "name": "AAA Second Trial",
-      "role": "Dev",
-      "avatar": "male-1"
-    }
-  ]
+    "members" : [
+        {
+            "name" : "Omar Elshopky",
+            "role" : "Founder / Projects Director",
+            "avatar" : "batman"
+        },
+        {
+            "name": "Abdelrahman Omar",
+            "role": "Backend Developer",
+            "avatar": "male-2"
+        },
+        {
+            "name": "Ahmed Esmat",
+            "role": "Dev",
+            "avatar": "male-1"
+        },
+        {
+            "name" : "Mahmoud Mohamed",
+            "role" : "Frontend Dev",
+            "avatar" : "male-2"
+        },
+        {
+            "name" : "Shehab Ihab",
+            "role" : "Member",
+            "avatar" : "male-1"
+        },
+        {
+          "name": "AAA Second Trial",
+          "role": "Dev",
+          "avatar": "male-1"
+        }
+    ]
 }
