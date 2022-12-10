@@ -1,9 +1,42 @@
 {
     "members" : [
         {
-            "name" : "Mohammed ElSheikh",
+
+          
+             "name" : "Omar Elshopky",
+            "role" : "Founder / Projects Director",
+            "avatar" : "batman"
+        },
+        {
+             "name" : "Mohammed ElSheikh",
             "role" : "Front End | Projects Member",
             "avatar" : "male-3"
+        },
+        {
+            "name": "Abdelrahman Omar",
+            "role": "Backend Developer",
+            "avatar": "male-2"
+        },
+        {
+            "name": "Ahmed Esmat",
+            "role": "Dev",
+            "avatar": "male-1"
+        },
+        {
+            "name" : "Mahmoud Mohamed",
+            "role" : "Frontend Dev",
+            "avatar" : "male-2"
+        },
+        {
+            "name" : "Shehab Ihab",
+            "role" : "Member",
+            "avatar" : "male-1"
+        },
+        {
+            "name":"Ali Haitham",
+            "role": "Frontend Developer",
+            "avatar": "male-2"
         }
     ]
 }
+
