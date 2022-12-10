@@ -24,6 +24,11 @@
             "name" : "Shehab Ihab",
             "role" : "Member",
             "avatar" : "male-1"
+        },
+        {
+            "name":"Ali Haitham",
+            "role": "Frontend Developer",
+            "avatar": "male-2"
         }
     ]
 }
