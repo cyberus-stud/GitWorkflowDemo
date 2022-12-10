@@ -1,3 +1,9 @@
 {
-    "members" : []
+    "members" : [
+        {
+            "name" : "Mohammed ElSheikh",
+            "role" : "Front End / Projects Member",
+            "avatar" : "male-3"
+        }
+    ]
 }
